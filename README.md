@@ -1,4 +1,3 @@
-Claro! Aqui está um exemplo de README que explica a estrutura do seu projeto:
 
 ---
 
